@@ -1,0 +1,49 @@
+[
+  {
+    "ID": 1,
+    "name": "Attack on Titan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvg0u2c4IkVIzhVsJgY0ySPgqa5O5pXwXvhs5RG56Hovth_-ulnvU1Zkn&s=10",
+    "overview": "The story follows Eren Yeager's journey in a world where humanity faces the threat of man-eating Titans.",
+    "othername": ["Shingeki no Kyojin"],
+    "Release_year": 2024,
+    "status": "ongoing",
+    "horizontal_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvg0u2c4IkVIzhVsJgY0ySPgqa5O5pXwXvhs5RG56Hovth_-ulnvU1Zkn&s=10",
+    "Genres": ["Action", "Drama", "Fantasy", "Adventure"],
+    "SLIDESHOW": true,
+    "tag": ["New release", "popular"],
+    "TOTAL_EP": 1,
+    "episodes": [
+      {
+        "id": 101,
+        "name": "Attack on Titan - Episode 1",
+        "poster": "https://api-flax-five-98.vercel.app/images/MV5BZGQ0ZDg3MTEtZWFmMi00YzYxLTlmM2ItZTNiNzk3MzU0ZDE5XkEyXkFqcGc@._V1_ (1).jpg",
+        "stream": {
+          "Embed": "https://l-adnans-projects-b6335659.vercel.app/api/v2/hianime/episode/sources?animeEpisodeId=attack-on-titan-112&ep=3303&server=hd-1"
+        }
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "name": "Demon Slayer",
+    "img": "https://assets-prd.ignimgs.com/2021/10/14/demonslayer-art-1634244394273.png",
+    "overview": "Tanjiro Kamado, a kind-hearted boy, joins the Demon Slayer Corps to avenge his family and cure his demon-turned sister.",
+    "othername": ["Kimetsu no Yaiba"],
+    "Release_year": 2019,
+    "status": "ongoing",
+    "Genres": ["Action", "Supernatural", "Historical", "Shounen"],
+    "SLIDESHOW": true,
+    "tag": ["popular", "must-watch"],
+    "TOTAL_EP": 1,
+    "episodes": [
+      {
+        "id": 201,
+        "name": "Demon Slayer - Episode 1",
+        "poster": "https://demonslayer-anime.com/images/story/1.jpg",
+        "stream": {
+          "Embed": "https://www.jiocinema.com/tv-shows/demon-slayer-kimetsu-no-yaiba/3964407"
+        }
+      }
+    ]
+  }
+]
