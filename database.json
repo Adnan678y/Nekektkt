@@ -18,7 +18,7 @@
         "name": "Attack on Titan - Episode 1",
         "poster": "https://api-flax-five-98.vercel.app/images/MV5BZGQ0ZDg3MTEtZWFmMi00YzYxLTlmM2ItZTNiNzk3MzU0ZDE5XkEyXkFqcGc@._V1_ (1).jpg",
         "stream": {
-          "Embed": "https://l-adnans-projects-b6335659.vercel.app/api/v2/hianime/episode/sources?animeEpisodeId=attack-on-titan-112&ep=3303&server=hd-1"
+          "Embed": "https://hls-streaming-seven.vercel.app/cnd/input.mp4"
         }
       }
     ]
