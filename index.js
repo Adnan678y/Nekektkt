@@ -113,7 +113,7 @@ app.get('/episode/:episodeId', (req, res) => {
       id: episode.id,
       name: episode.name,
       poster: episode.poster,
-      stream: episode.stream?.link?.Embed || []
+      stream: episode.stream?.Embed || []
     });
   } else {
     res.status(404).json({ message: 'Episode not found' });
