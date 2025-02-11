@@ -18,7 +18,7 @@
         "name": "∙ To You, in 2000 Years: The Fall of Shiganshina, Part 1",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzM1NTExMWItOGE2Yi00ZDk0LWE2YmYtMzE3NGZiMDJhNDAyXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg",
         "stream": {
-          "Embed": "https://hls-streaming-seven.vercel.app/cnd/index.m3u8"
+          "Embed": "https://hls-streaming-seven.vercel.app/cnd/cnd.m3u8"
         }
       }
     ]
