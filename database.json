@@ -16,7 +16,7 @@
       {
         "id": 101,
         "name": "Attack on Titan - Episode 1",
-        "poster": "https://api-flax-five-98.vercel.app/images/MV5BZGQ0ZDg3MTEtZWFmMi00YzYxLTlmM2ItZTNiNzk3MzU0ZDE5XkEyXkFqcGc@._V1_ (1).jpg",
+        "poster": "https://nekektkt.vercel.app/images/MV5BZGQ0ZDg3MTEtZWFmMi00YzYxLTlmM2ItZTNiNzk3MzU0ZDE5XkEyXkFqcGc@._V1_ (1).jpg",
         "stream": {
           "Embed": "https://hls-streaming-seven.vercel.app/cnd/index.m3u8"
         }
